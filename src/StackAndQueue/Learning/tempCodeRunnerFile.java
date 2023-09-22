@@ -1,0 +1,1 @@
+ return arr[(rear + cap - 1) % cap];
